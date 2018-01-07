@@ -14,6 +14,9 @@ KEY FUNCTIONALITES
 - Spring Framework, Hibernate, Spring Security, Bootstrap, Jquery, JavaScript, MySQL, HTML/CSS
 
 
+Video Demonstration - https://youtu.be/FIXSyvdpiA0
+
+
 # USER TABLE
 ```
 CREATE TABLE `users` (
