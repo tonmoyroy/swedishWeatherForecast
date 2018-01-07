@@ -1,7 +1,7 @@
 # swedishWeatherForecast
 KTH Course Project ID1212
 
-Video Demonstration - https://youtu.be/FIXSyvdpiA0
+# Video Demonstration - https://youtu.be/FIXSyvdpiA0
 
 KEY FUNCTIONALITES
 
@@ -18,7 +18,7 @@ KEY FUNCTIONALITES
 
 
 
-# USER TABLE
+# User Table
 ```
 CREATE TABLE `users` (
   `userid` bigint(100) NOT NULL,
@@ -30,7 +30,7 @@ CREATE TABLE `users` (
 
 ```
 
-# SMHIDATA TABLE
+# SMHI Data Table
 
 ```
 CREATE TABLE `smhidata` (
@@ -48,7 +48,7 @@ CREATE TABLE `smhidata` (
 ```
 
 
-# GEOGRAPHICAL CORRDINATES OF MAJOR CITIES OF SWEDEN TABLE
+# Geographical Info of Major Cities of Sweden
 
 ```
 CREATE TABLE `smhipoints` (
@@ -63,7 +63,7 @@ CREATE TABLE `smhipoints` (
 ```
 
 
-# USER NOTIFICATION TABLE
+# User Notification Table
 
 ```
 CREATE TABLE `notification` (
