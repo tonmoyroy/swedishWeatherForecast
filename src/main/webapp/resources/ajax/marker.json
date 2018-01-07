@@ -1,0 +1,41 @@
+[{
+	"id"    :  1,
+	"title" : "Property 1",
+	"description" : "Morbi non convallis lectus. Vivamus ipsum arcu, fringilla auctor justo sit amet, laoreet auctor sem. Cras mattis, lectus non tincidunt placerat, ante nisi finibus libero: 960-DB4436",
+	"info"  : {"price": "280,000", "bathRoom": 2, "bedRoom": 3, "perimeter": 130, "room": 4},
+	"img"   : "http://placehold.it/320x260/bbbbbb/ffffff",
+	"propertyType" : "apartement",
+	"url"   : "property-detail.html",
+	"lon"   : 15.2099934,
+	"lat"   : 59.2844873
+},{
+	"id"    :  12,
+	"title" : "Property 12",
+	"description": "Morbi non convallis lectus. Vivamus ipsum arcu, fringilla auctor justo sit amet, laoreet auctor sem. Cras mattis, lectus non tincidunt placerat, ante nisi finibus libero: 503-DB4436",
+	"info"  : {"price": "280,000", "bathRoom": 2, "bedRoom": 3, "perimeter": 130, "room": 4},
+	"img"   : "http://placehold.it/320x260/bbbbbb/ffffff",
+	"propertyType" : "single-home",
+	"url"   : "property-detail.html",
+	"lon"   : 15.3000009,
+	"lat"   : 59.2644173
+},{
+	"id"    :  90,
+	"title" : "Property 90",
+	"description": "Morbi non convallis lectus. Vivamus ipsum arcu, fringilla auctor justo sit amet, laoreet auctor sem. Cras mattis, lectus non tincidunt placerat, ante nisi finibus libero: 503-DB4436",
+	"info"  : {"price": "280,000", "bathRoom": 2, "bedRoom": 3, "perimeter": 130, "room": 4},
+	"img"   : "http://placehold.it/320x260/bbbbbb/ffffff",
+	"propertyType" : "single-home",
+	"url"   : "property-detail.html",
+	"lon"   : 15.1091944,
+	"lat"   : 59.2344873
+},{
+	"id"    :  91,
+	"title" : "Property 91",
+	"description": "Morbi non convallis lectus. Vivamus ipsum arcu, fringilla auctor justo sit amet, laoreet auctor sem. Cras mattis, lectus non tincidunt placerat, ante nisi finibus libero: 503-DB4436",
+	"info"  : {"price": "280,000", "bathRoom": 2, "bedRoom": 3, "perimeter": 130, "room": 4},
+	"img"   : "http://placehold.it/320x260/bbbbbb/ffffff",
+	"propertyType" : "family-house",
+	"url"   : "property-detail.html",
+	"lon"   : 15.2109934,
+	"lat"   : 59.2344273
+}]
