@@ -1,6 +1,8 @@
 # swedishWeatherForecast
 KTH Course Project ID1212
 
+Video Demonstration - https://youtu.be/FIXSyvdpiA0
+
 KEY FUNCTIONALITES
 
 - User Registration/Login
@@ -14,7 +16,6 @@ KEY FUNCTIONALITES
 - Spring Framework, Hibernate, Spring Security, Bootstrap, Jquery, JavaScript, MySQL, HTML/CSS
 
 
-Video Demonstration - https://youtu.be/FIXSyvdpiA0
 
 
 # USER TABLE
