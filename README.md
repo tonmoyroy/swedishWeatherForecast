@@ -1,6 +1,19 @@
 # swedishWeatherForecast
 KTH Course Project ID1212
 
+KEY FUNCTIONALITES
+
+- User Registration/Login
+- Collect weather forecast data from Swedish Meteorological and Hydrological Institute (SMHI)
+- Execute Daily Crone Job to update location wise weather data. (http://localhost:8080/swforecast/update)
+- Write all temperature data in JSon file to dynamically view in Google Maps (http://localhost:8080/swforecast/writejson)
+- Google Maps API
+- Gmail SMTP Mail Service
+- REST API (http://opendata-download-metfcst.smhi.se/)
+- Mobile Responsive
+- Spring Framework, Hibernate, Spring Security, Bootstrap, Jquery, JavaScript, MySQL, HTML/CSS
+
+
 # USER TABLE
 ```
 CREATE TABLE `users` (
