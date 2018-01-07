@@ -1,4 +1,4 @@
-# swedishWeatherForecast
+# Swedish Weather Forecast
 KTH Course Project ID1212
 
 # Video Demonstration - https://youtu.be/FIXSyvdpiA0
